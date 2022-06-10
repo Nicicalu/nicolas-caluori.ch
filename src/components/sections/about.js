@@ -129,7 +129,7 @@ const About = () => {
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
-      <h2 className="numbered-heading">About Me</h2>
+      <h2 className="numbered-heading">Über mich</h2>
 
       <div className="inner">
         <StyledText>
@@ -137,7 +137,7 @@ const About = () => {
             <p>
               Hallo! Mein Name ist Nicolas Caluori.
             </p>
-            <p>Das sind meine Skills:</p>
+            <p>Das sind meine Fähigkeiten:</p>
           </div>
 
           <ul className="skills-list">
