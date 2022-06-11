@@ -266,7 +266,7 @@ const Projects = () => {
     <StyledProjectsSection>
       <section>
         <h2 className="numbered-heading" ref={revealTitle}>
-          Projekte
+          Mehr Projekte
         </h2>
 
         <ul className="projects-grid">
