@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Cyber Security', 'Webdesign'];
+  const skills = ['Windows Security', 'Web Development', 'Mobile Development', 'Active Directory', 'Scripting', 'Linux', 'Ethical Hacking', 'Cybersecurity'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -137,7 +137,7 @@ const About = () => {
             <p>
               Hallo! Mein Name ist Nicolas Caluori.
             </p>
-            <p>Das sind meine Fähigkeiten:</p>
+            <p>Das sind meine Kentnisse:</p>
           </div>
 
           <ul className="skills-list">

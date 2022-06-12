@@ -64,7 +64,7 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        Ich bin ein ausgebildeter Informatiker Fachrichtung Systemtechnik.
+        Ich bin ein ausgebildeter Informatiker Fachrichtung Systemtechnik und interessiere mich vor allem für Cyber Security und Web Entwicklung. 
       </p>
     </>
   );

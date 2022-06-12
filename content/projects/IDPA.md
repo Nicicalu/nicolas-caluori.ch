@@ -6,6 +6,8 @@ android: 'https://play.google.com/store/apps/details?id=gbc.idpa.bm_voice_assist
 external: 'https://idpa.k26.ch/'
 tech:
   - Flutter
+  - Python
+  - Flask
 showInProjects: true
 ---
 
