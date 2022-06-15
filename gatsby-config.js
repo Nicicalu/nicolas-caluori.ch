@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Nicolas Caluori',
     description:
-      'Nicolas Caluori ist ein Informatiker.',
+      'Nicolas Caluori ist ein Informatiker...',
     siteUrl: 'https://nicolas-caluori.ch', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@Nicicalu',
@@ -20,8 +20,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'NicolasCaluori',
-        short_name: 'NicolasCaluori',
+        name: 'Nicolas Caluori Portfolio Webseite',
+        short_name: 'Nicolas Caluori',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
