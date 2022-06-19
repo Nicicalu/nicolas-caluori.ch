@@ -60,7 +60,7 @@ const Contact = () => {
       <h2 className="title">Kontakt</h2>
 
       <p>
-        Obwohl ich derzeit keine neuen Stellen suche, ist mein Posteingang immer offen. Egal, ob Sie
+        Obwohl ich derzeit keine neue Stelle suche, ist mein Posteingang immer offen. Egal, ob Sie
         eine Frage haben oder einfach nur Hallo sagen wollen, ich werde mein Bestes tun, um Ihnen zu
         antworten!
       </p>
